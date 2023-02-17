@@ -237,6 +237,10 @@ sub {
   }
 }
 @media only screen and (max-height: 620px) {
+  .numbers button {
+    width: 24.7%;
+    height: 16.3%;
+  }
   .lg-hide {
     display: none;
   }
